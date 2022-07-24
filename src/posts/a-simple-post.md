@@ -1,5 +1,5 @@
 ---
-title: The NFT Vendor
+title: The NFT VENDOR
 socialImage: nftvendor.png
 date: 2022-07-24T16:39:06.454Z
 tags:
@@ -15,18 +15,9 @@ NFT Vendor is a NFT & web3 project designed to create awareness on NFT & web3 sp
 
 
 
-> Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae elit libero, a pharetra augue.
+> So many talented artists out there but the society don’t appreciate their talents. I have seen great talents wasted and government imposed heavy tax to those trying to earn a living. I want to enlighten and educate them on nft and web3 space.
 
-A list of stuff:
-
-* Sed posuere consectetur est at lobortis
-* Aenean lacinia bibendum nulla sed consectetur
-* Sed posuere consectetur est at lobortis
-
-How about an ordered list of stuff:
-
-1. Sed posuere consectetur est at lobortis
-2. Aenean lacinia bibendum nulla sed consectetur
-3. Sed posuere consectetur est at lobortis
-
-Hopefully, this has demonstrated how simple it is to make a nice looking blog with Hylia.
+We believe artists deserves more recognition and their art need to be appreciated. We want to guide creative minds on how to benefit from their creativity. I’m also working on building a gallery, exhibition center and digital library in the metaverse that will help create more awareness for our holders when we launch. \
+\
+I’m currently publishing articles on NFT and web3 projects, follow me on Twitter @TheNFTVENDOR\
+Join my community https://discord.gg/VsH8HTmd7P
