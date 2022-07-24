@@ -1,13 +1,13 @@
 {
-  "showThemeCredit": true,
+  "showThemeCredit": false,
   "name": "THE NFT VENDOR",
-  "shortDesc": "This is the official website of The NFT VENDOR",
-  "url": "https://thenftvendor.io",
+  "shortDesc": "We bring web3 to your doorstep",
+  "url": "https://thenftvendor.com",
   "authorEmail": "thenftvendor@gmail.com",
   "authorHandle": "@TheNFTVENDOR",
   "authorName": "Ogba Chika",
   "enableThirdPartyComments": true,
   "paymentPointer": "$ilp.uphold.com/MggmnFEyQqhk",
-  "faviconPath": "/images/favicon.png",
+  "faviconPath": "/images/nftvendor.png",
   "maxPostsPerPage": 5
 }
