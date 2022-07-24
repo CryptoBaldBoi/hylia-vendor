@@ -1,6 +1,6 @@
 ---
 layout: home
-title: NFT VENDOR
+title: THE NFT VENDOR
 metaDesc: This is the official website of the NFT VENDOR.
 postsHeading: Latest posts
 archiveButtonText: See all posts
