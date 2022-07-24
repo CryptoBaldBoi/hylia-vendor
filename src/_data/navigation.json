@@ -2,18 +2,28 @@
   "items": [
     {
       "text": "Home",
-      "url": "/",
+      "url": "thenftvendor.io/home",
       "external": false
     },
     {
-      "text": "GitHub",
-      "url": "https://github.com/andy-piccalilli/hylia",
+      "text": "Join Community",
+      "url": "https://discord.gg/4G9eaeZqFu",
       "external": true
     },
     {
-      "text": "Example Contact Page",
-      "url": "/contact",
-      "external": false
+      "text": "Facebook",
+      "url": "https://www.facebook.com/CryptoBaldBoi",
+      "external": true
+    },
+    {
+      "text": "Twitter",
+      "url": "https://twitter.com/TheNFTVENDOR",
+      "external": true
+    },
+    {
+      "text": "OpenSea",
+      "url": "https://OpenSea.io/the-nftvendor",
+      "external": true
     }
   ]
 }
