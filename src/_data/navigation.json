@@ -2,13 +2,8 @@
   "items": [
     {
       "text": "Home",
-      "url": "thenftvendor.com/home",
+      "url": "thenftvendor.io/home",
       "external": false
-    },
-    {
-      "text": "Twitter",
-      "url": "https://twitter.com/TheNFTVENDOR",
-      "external": true
     },
     {
       "text": "Join Community",
@@ -21,8 +16,14 @@
       "external": true
     },
     {
-      "text": "Contact Page",
-      "url": "/contact"
+      "text": "Twitter",
+      "url": "https://twitter.com/TheNFTVENDOR",
+      "external": true
+    },
+    {
+      "text": "OpenSea",
+      "url": "https://OpenSea.io/the-nftvendor",
+      "external": true
     }
   ]
 }
