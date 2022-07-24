@@ -1,6 +1,6 @@
 ---
 title: The NFT VENDOR
-socialImage: nftvendor.png
+socialImage: /images/nftvendor.png
 date: 2022-07-24T16:39:06.454Z
 tags:
   - the-nft-vendor
